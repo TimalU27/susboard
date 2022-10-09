@@ -1,4 +1,4 @@
-# SUS-Board
+# susboard
 AMONGUS themed micro pad
 
 # notice
