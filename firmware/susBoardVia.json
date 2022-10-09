@@ -1,5 +1,5 @@
 {
-    "name": "susBoard",
+    "name": "susboard",
     "vendorId" :"0xFEED",
     "productId": "0x6061",
     "lighting": "none",
@@ -8,7 +8,7 @@
         "cols": 4
     },
     "layouts":{
-        "keymap": [
+        "keymap":[
           [
             {
               "x": 1
