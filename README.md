@@ -5,3 +5,6 @@ AMONGUS themed micro pad
 1. experimenting with pcb designs 
 2. please run it with the latest version of VIA or the function might not work 
 3. SUS
+
+#guide 
+Material needed:
