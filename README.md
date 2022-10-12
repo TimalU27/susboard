@@ -12,7 +12,12 @@ AMONGUS themed micro pad
 3. 12x MX-switches
 4. 24x milmax sockets (optional)
 5. 1x 2u pcb-mount stabilizer
-6. 1x 2pin Switch 3x4x2
-7. 12x 1N4148W diode (package: sod 123 )
-8. 1x 10k resistor (package: R0805)
+6. 4x rubber feet
+7. 1x 2pin Switch 3x4x2
+8. 12x 1N4148W diode (package: sod 123 )
+9. 1x 10k resistor (package: R0805)
 
+<img src = "https://github.com/TimalU27/susboard/blob/main/render/SUSboard.back.png" width = "500">
+
+the promicro should be facing like this 
+<img src = "https://github.com/TimalU27/susboard/blob/main/render/promicro.png" width = "500">
