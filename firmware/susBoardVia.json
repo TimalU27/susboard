@@ -2,6 +2,7 @@
     "name": "susboard",
     "vendorId" :"0x1127",
     "productId": "0x6061",
+    "lighting": "none",
     "matrix":{
         "rows": 4,
         "cols": 4
